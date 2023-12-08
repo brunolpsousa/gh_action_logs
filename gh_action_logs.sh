@@ -108,7 +108,7 @@ delete_action_logs() {
 delete_all_logs() {
   local DELETE_ALL
   echo -ne \
-    "\nWarning: this will delete all logs for all GitHub actions runs" \
+    "\nWarning: this will delete all logs for all GitHub Actions runs" \
     "for the provided repository.\nAre you sure you want to continue?" \
     "Type YES (with capital letters): " && read -r DELETE_ALL
 
