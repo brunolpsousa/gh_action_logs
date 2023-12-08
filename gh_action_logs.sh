@@ -1,6 +1,6 @@
 #!/bin/env bash
 
-# A simple Bash script to delete GitHub actions logs
+# A simple Bash script to delete GitHub Actions logs
 
 # Reference:
 # https://github.blog/changelog/2020-04-21-github-actions-logs-can-now-be-deleted/
